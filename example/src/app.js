@@ -1,7 +1,7 @@
 /*** examples/src/app.js ***/
 import React from "react";
 import ReactDOM from "react-dom/client";
-import VrReact from "react-demo-component-zelma";
+import VrReact from "../../lib/index";
 import { useState } from "react";
 function App() {
   const config = {

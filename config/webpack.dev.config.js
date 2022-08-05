@@ -11,15 +11,15 @@ const devConfig = {
   },
   module: {
     rules: [
-      // {
-      //   test: /\.css$/,
-      //   exclude: /\.min\.css$/,
-      //   loader: ["style-loader", "css-loader?modules"],
-      // },
-      // {
-      //   test: /\.min\.css$/,
-      //   loader: ["style-loader", "css-loader"],
-      // },
+      {
+        test: /\.css$/,
+        exclude: /\.min\.css$/,
+        loader: ["style-loader", "css-loader?modules"],
+      },
+      {
+        test: /\.min\.css$/,
+        loader: ["style-loader", "css-loader"],
+      },
     ],
   },
   devServer: {

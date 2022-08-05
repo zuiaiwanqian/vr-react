@@ -69,7 +69,7 @@ import VrReact from "vr-react";
 
 <b>所有参数内容和使用方法都在这里面</b>
 
-地址为[react-pannellum 参数文档](https://doc.weixin.qq.com/sheet/e3_AeUArQY6ACwn0vBVpMtRu6ViWUHhb?scode=AJEAIQdfAAoye9vbi7AeUArQY6ACw&tab=BB08J2)
+地址为[vr-react 参数文档](https://doc.weixin.qq.com/sheet/e3_AeUArQY6ACwn0vBVpMtRu6ViWUHhb?scode=AJEAIQdfAAoye9vbi7AeUArQY6ACw&tab=BB08J2)
 
 https://doc.weixin.qq.com/sheet/e3_AeUArQY6ACwn0vBVpMtRu6ViWUHhb?scode=AJEAIQdfAAoye9vbi7AeUArQY6ACw&tab=BB08J2
 

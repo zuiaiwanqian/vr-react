@@ -37,6 +37,12 @@ react VR 全景图组件实现，超级简单，即下即用，只需要从 npm 
 ```js
 import VrReact from "vr-react";
 
+const scenes = {
+  oneScene: {
+    type: "equirectangular",
+    panorama: "https://pannellum.org/images/bma-1.jpg",
+  },
+};
 <VrReact scenes={scenes} width="100%" height="100vh" />;
 ```
 

@@ -1,6 +1,6 @@
 {
   "name": "vr-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "react VR全景图组件 超简单实用",
   "main": "lib/index.js",
   "scripts": {

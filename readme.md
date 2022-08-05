@@ -1,6 +1,8 @@
 # 本文地址
 
-[掘金文章地址]('https://juejin.cn/post/7127863547530477582/')
+[掘金文章地址](https://juejin.cn/post/7127863547530477582/)
+
+https://juejin.cn/post/7127863547530477582/
 
 # 啥也不说，先上效果图
 
@@ -8,20 +10,10 @@
 
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/804b0bcfa7544b0d8f0903445eed035c~tplv-k3u1fbpfcp-watermark.image?)
 
-[pc 端预览地址]('https://www.zuiaiwanqian.com/pannellum/index.html')
+[pc 端预览地址](https://www.zuiaiwanqian.com/pannellum/index.html)
 建议打开调式模式，使用手机模式查看
 
-# 背景
-
-在前面有一篇文章向大家介绍了如何使用 pannellum 插件去实现一个 VR 全景图，但是是使用原生的方式实现，在平时开发中，肯定是需要使用一个 UI 框架的，在后续工作中我使用 React 框架实现了全景图的功能，里面有一些坑，我一一踩过了之后，现在把他封装成一个 React 组件来使用，非常的方便
-
-# 如何下载
-
-我把组件上传到了`NPM`上，组件代码上传到了`github`上
-
-> npm 地址 https://www.npmjs.com/package/vr-react
-
-> github 地址 https://github.com/zuiaiwanqian/vr-react
+https://www.zuiaiwanqian.com/pannellum/index.html
 
 # 使用方式
 
@@ -60,7 +52,9 @@ import VrReact from "vr-react";
 
 <b>所有参数内容和使用方法都在这里面</b>
 
-地址为[react-pannellum 参数文档]('https://doc.weixin.qq.com/sheet/e3_AeUArQY6ACwn0vBVpMtRu6ViWUHhb?scode=AJEAIQdfAAoye9vbi7AeUArQY6ACw&tab=BB08J2')
+地址为[react-pannellum 参数文档](https://doc.weixin.qq.com/sheet/e3_AeUArQY6ACwn0vBVpMtRu6ViWUHhb?scode=AJEAIQdfAAoye9vbi7AeUArQY6ACw&tab=BB08J2)
+
+https://doc.weixin.qq.com/sheet/e3_AeUArQY6ACwn0vBVpMtRu6ViWUHhb?scode=AJEAIQdfAAoye9vbi7AeUArQY6ACw&tab=BB08J2
 
 部分参数截图
 

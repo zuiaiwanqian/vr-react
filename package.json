@@ -1,6 +1,6 @@
 {
   "name": "vr-react",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "react VR全景图组件 超简单实用",
   "main": "lib/index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "author": "zelmazhou",
   "license": "MIT",
-  "repository": "zuiaiwanqian/react-vr-pannellum",
+  "repository": "zuiaiwanqian/vr-react",
   "keywords": [
     "VR",
     "react",

@@ -71,8 +71,6 @@ import VrReact from "vr-react";
 
 地址为[vr-react 参数文档](https://docs.qq.com/document/DVnBFU2JGRlZyZVd1?u=2c6ef6be46a946bca1849351da5736ff)
 
-https://doc.weixin.qq.com/sheet/e3_AeUArQY6ACwn0vBVpMtRu6ViWUHhb?scode=AJEAIQdfAAoye9vbi7AeUArQY6ACw&tab=BB08J2
-
 部分参数截图
 
 ![image.png](https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d5f4ea66766b4b01a6bd1d50c4363ec5~tplv-k3u1fbpfcp-watermark.image?)

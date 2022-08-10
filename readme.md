@@ -69,7 +69,7 @@ import VrReact from "vr-react";
 
 <b>所有参数内容和使用方法都在这里面</b>
 
-地址为[vr-react 参数文档](https://doc.weixin.qq.com/sheet/e3_AeUArQY6ACwn0vBVpMtRu6ViWUHhb?scode=AJEAIQdfAAoye9vbi7AeUArQY6ACw&tab=BB08J2)
+地址为[vr-react 参数文档](https://docs.qq.com/document/DVnBFU2JGRlZyZVd1?u=2c6ef6be46a946bca1849351da5736ff)
 
 https://doc.weixin.qq.com/sheet/e3_AeUArQY6ACwn0vBVpMtRu6ViWUHhb?scode=AJEAIQdfAAoye9vbi7AeUArQY6ACw&tab=BB08J2
 
@@ -157,7 +157,7 @@ useEffect(() => {
 
 ### 解释一下`pitch` `yaw` `hfov`
 
-这几个值代表了 VR 全景图的视角变化，在[参数文档表格]('https://doc.weixin.qq.com/sheet/e3_AeUArQY6ACwn0vBVpMtRu6ViWUHhb?scode=AJEAIQdfAAoye9vbi7AeUArQY6ACw&tab=BB08J2')中也有很多体现
+这几个值代表了 VR 全景图的视角变化，在[参数文档表格](https://docs.qq.com/document/DVnBFU2JGRlZyZVd1?u=2c6ef6be46a946bca1849351da5736ff)中也有很多体现
 
 - `pitch` 水平方向上下移动角度 正值向上 负值向下，上下旋转角度控制
 - `yaw` 垂直方向左右旋转角度 正值向右 负值向左，左右旋转角度控制
@@ -278,7 +278,7 @@ useEffect(() => {
 
 在场景中添加热点信息
 
-- `hs` 热点配置项，[参数文档表格]('https://doc.weixin.qq.com/sheet/e3_AeUArQY6ACwn0vBVpMtRu6ViWUHhb?scode=AJEAIQdfAAoye9vbi7AeUArQY6ACw&tab=BB08J2')中有具体配置解释
+- `hs` 热点配置项，[参数文档表格](https://docs.qq.com/document/DVnBFU2JGRlZyZVd1?u=2c6ef6be46a946bca1849351da5736ff)中有具体配置解释
 - `sceneId` 需要添加热点的场景 ID 值
 
 ### removeHotSpot(hotSpotId, sceneId)
